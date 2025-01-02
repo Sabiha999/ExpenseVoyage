@@ -3,14 +3,14 @@ ExpenseVoyage is a web application that helps users plan their trips by providin
 
 <h3>Features:</h3>
 <ul>
-Destination Exploration: Browse and discover various travel destinations with detailed information and images.
-Itinerary Creation: Plan and organize your trip itinerary with activities, accommodations, and transportation details.
-Trip Scheduling: Schedule your trip activities and set reminders for important events.
-Activity Suggestions: Get personalized activity suggestions based on your interests and destination.
-Interactive Maps: View interactive maps of your trip destinations and planned routes.
-Expense Management: Track your trip expenses and manage your budget effectively.
-User Profiles: Create and manage user profiles with saved trips and preferences.
-Social Sharing: Share your trip plans and experiences with friends and family.
+1- Destination Exploration: Browse and discover various travel destinations with detailed information and images.
+2- Itinerary Creation: Plan and organize your trip itinerary with activities, accommodations, and transportation details.
+3- Trip Scheduling: Schedule your trip activities and set reminders for important events.
+4- Activity Suggestions: Get personalized activity suggestions based on your interests and destination.
+5- Interactive Maps: View interactive maps of your trip destinations and planned routes.
+6- Expense Management: Track your trip expenses and manage your budget effectively.
+7- User Profiles: Create and manage user profiles with saved trips and preferences.
+8- Social Sharing: Share your trip plans and experiences with friends and family.
   </ul>
 <h3>Demo</h3>
 You can view a live demo of the application <a>https://epensevoyage.freewebhostmost.com/</a>
